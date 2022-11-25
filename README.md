@@ -3,11 +3,11 @@ A simple task app designed to be fully responsive
 
 ## Project Description
 
-This app demonstrates some simple JS CRUD Operations.
+This app demonstrates some simple responsive html,css and js static page.
 
 ## Live Demo
-https://harmonious-kashata-7f9126.netlify.app
 
+https://endearing-melomakarona-89cdd4.netlify.app/#
 
 
 
